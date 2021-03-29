@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { withRouter, Link } from "react-router-dom";
+import { withRouter } from "react-router-dom";
 import styled from "styled-components";
 import HeaderLeft from "./HeaderLeft";
 import Mobile from "./Mobile";
